@@ -43,9 +43,9 @@ This command does not accept any parameters.
 
 ## Related Commands
 
-- [`!sr`](songrequest.md) or [`!songrequest`](songrequest.md): Used to request a song or media to be added to the queue
+- [`!sr`](!songrequest.md) or [`!songrequest`](!songrequest.md): Used to request a song or media to be added to the queue
 - [`!wrongsong`](wrongsong.md): Allows users to remove their most recent song request from the queue
-- [`!song`](song.md): Displays information about the currently playing song or media
+- [`!song`](!song.md): Displays information about the currently playing song or media
 
 ## Configuration
 
