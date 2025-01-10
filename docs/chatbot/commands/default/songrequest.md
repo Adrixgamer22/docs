@@ -67,7 +67,7 @@ Streamers can configure various aspects of the `!songrequest` command in their S
 When a song is successfully added to the queue, the chatbot will respond with a message similar to this:
 
 ```
-@Viewer, added "Song Title" to the queue at #2 (playing ~in 3 mins 5 secs) https://youtu.be/VIDEO_ID
+!@Viewer, added "Song Title" to the queue at #2 (playing ~in 3 mins 5 secs) https://youtu.be/VIDEO_ID
 ```
 
 This response includes:
